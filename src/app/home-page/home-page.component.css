@@ -1,0 +1,23 @@
+.bg-image{
+    background-image: url("https://www.basic-fit.com/dw/image/v2/BDFP_PRD/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dwf0cbd84f/Roots/Blog/Blog-Header/1088x612/19-07-Blog-fitness-training-personal-training.png?sw=968");
+    background-image: linear-gradient(to right, black 10%, transparent 0%);
+    min-height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    }
+
+input{
+    margin-top: 5%;
+    border-radius: 25px;
+}
+
+.headline{
+    color: rgb(182, 0, 0);
+    margin-top: 10%;
+
+}
+
+
+
