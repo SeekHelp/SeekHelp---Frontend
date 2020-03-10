@@ -1,17 +1,20 @@
+.container{
+    width: 100%;
+}
+
 input{
     margin-top: 5%;
     border-radius: 25px;
 }
 
-.card {
-    margin-top: 5%;
+.searchButton{
+    margin-top: 28%;
 }
 
 .dropdown{
-    margin-top: 5%;
-    margin-left: 10%;
+    margin-top: 10%;
 }
 
-.searchButton {
-    margin-top: 4%;
+.card{
+    margin-top: 10%;
 }
