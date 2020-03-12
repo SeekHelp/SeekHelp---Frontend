@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-input{
+.searchInput{
     margin-top: 5%;
     border-radius: 25px;
 }
@@ -12,9 +12,13 @@ input{
 }
 
 .dropdown{
-    margin-top: 10%;
+    margin-top: 17%;
 }
 
 .card{
     margin-top: 10%;
+}
+
+.filterLabel{
+    padding-bottom: -2%;
 }
