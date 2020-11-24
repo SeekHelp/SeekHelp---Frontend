@@ -1,10 +1,15 @@
 .bg-image{
     background-image: url("https://www.basic-fit.com/dw/image/v2/BDFP_PRD/on/demandware.static/-/Library-Sites-basic-fit-shared-library/default/dwf0cbd84f/Roots/Blog/Blog-Header/1088x612/19-07-Blog-fitness-training-personal-training.png?sw=968");
     min-height: 900px;
+    min-width: 1024px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
     }
 
 input{
